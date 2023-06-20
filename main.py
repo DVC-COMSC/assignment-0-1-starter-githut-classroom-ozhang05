@@ -6,6 +6,7 @@ def main():
     ##############################\
     print("Hello, World")
     print("Python Programming")
+    print("test")
 
 
 if __name__ == '__main__':
